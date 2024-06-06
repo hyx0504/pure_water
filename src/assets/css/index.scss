@@ -1,0 +1,46 @@
+@import './_color.scss';
+@import './_base.scss';
+@import './normalize.css';
+@import './element-com.scss';
+
+html,
+body,
+#app {
+  height: 100%;
+}
+
+:focus-visible {
+  outline: none;
+}
+
+.text {
+  color: $text;
+}
+
+.text-primary {
+  color: $primary;
+}
+
+.text-success {
+  color: $success;
+}
+
+.text-danger {
+  color: $danger;
+}
+
+.text-default {
+  color: $default;
+}
+
+.text-major {
+  color: $major-text;
+}
+
+.route-page {
+  height: calc(100% - 2rem);
+  width: calc(100% - 2rem);
+  margin: 1rem;
+  color: white;
+  box-sizing: border-box;
+}

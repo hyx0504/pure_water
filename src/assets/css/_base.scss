@@ -1,0 +1,41 @@
+$scroll-bg: transparent;
+$width: 8px;
+
+::-webkit-scrollbar {
+  width: $width !important;
+  height: $width !important;
+  background: $scroll-bg !important;
+  cursor: pointer !important;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 5px !important;
+  box-shadow: inset 0 0 5px rgba(240, 240, 240, 0.5) !important;
+  background: rgba(63, 98, 131, 0.4) !important;
+  opacity: 0.76;
+  cursor: pointer !important;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 0 !important;
+  background: $scroll-bg !important;
+  cursor: pointer !important;
+}
+
+body,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  list-style: none;
+}

@@ -1,0 +1,18 @@
+{
+  "LOOP3TANK": "https://corepro.fii-fmc.com:8010/hmi/9hcu",
+  "LOOP3HEX": "https://corepro.fii-fmc.com:8010/hmi/man8",
+  "LOOP3TOCUV": "https://corepro.fii-fmc.com:8010/hmi/uk0c",
+  "LOOP3MDG2": "https://corepro.fii-fmc.com:8010/hmi/m3nx",
+  "LOOP3POLISHER": "https://corepro.fii-fmc.com:8010/hmi/9bvh",
+  "LOOP3UFUNIT": "https://corepro.fii-fmc.com:8010/hmi/n1gz",
+  "LOOP3POU": "https://corepro.fii-fmc.com:8010/hmi/w96j",
+  "LOOP4TANK": "https://corepro.fii-fmc.com:8010/hmi/lmv0",
+  "LOOP4HEX": "https://corepro.fii-fmc.com:8010/hmi/8xx9",
+  "LOOP4TOCUV": "https://corepro.fii-fmc.com:8010/hmi/xtb1",
+  "LOOP4MDG2": "https://corepro.fii-fmc.com:8010/hmi/sk8s",
+  "LOOP4POLISHER": "https://corepro.fii-fmc.com:8010/hmi/jay9",
+  "LOOP4UFUNIT": "https://corepro.fii-fmc.com:8010/hmi/0iw7",
+  "LOOP4POU": "https://corepro.fii-fmc.com:8010/hmi/2jkx",
+  "POSTPREFILT": "https://corepro.fii-fmc.com:8010/hmi/qs8z",
+  "MDG1": "https://corepro.fii-fmc.com:8010/hmi/judb"
+}

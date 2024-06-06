@@ -1,0 +1,30 @@
+{
+  "id": "4357030",
+  "name": "SCADA",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1210570",
+      "name": "设备",
+      "font_class": "shebei",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "34153440",
+      "name": "设置",
+      "font_class": "setting",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "10594748",
+      "name": "折线",
+      "font_class": "zhexian",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    }
+  ]
+}
